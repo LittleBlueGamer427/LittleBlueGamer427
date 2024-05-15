@@ -10,7 +10,7 @@ export default function Custom404() {
             backgroundSize: "cover",
             color: "#ffffff"
           }}>
-          <title>FUCK</title>
+          <title>:(</title>
             <div class="container">
               <div class="navbar">
                 <img src="/avatarHead.png" width="70" height="70" />
