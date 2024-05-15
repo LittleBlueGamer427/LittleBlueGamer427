@@ -53,7 +53,7 @@ section{
 }
 section img {
     display: inline-block;
-    border-radius: 300px;
+    border-radius: 30px;
 }
 section h1{
     font-size: 85px;
