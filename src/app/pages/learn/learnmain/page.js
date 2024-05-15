@@ -1,5 +1,5 @@
 import Image from "next/image";
-import '/style.css';
+import "url('/style.css')";
 import Link from 'next/link';
 
 export default function LearnMain() {
