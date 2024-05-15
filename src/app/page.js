@@ -24,8 +24,11 @@ export default function Home() {
           <h1>stupid gamedev</h1>
           <p>literally a gamedev and an extension (not to be mistaken for browser ones i mentioned turbowarp extensions) developer</p>
           <div>
-            <button>TEST</button>
-            <button>TEST</button>
+            <button>This site is under construction, it's not fully finished yet.</button>
+          </div>
+          <div>
+            <button><Link href="https://gamejolt.com/@LittleBlueGamer">gamejolt profile</Link></button>
+            <button><Link href="https://discord.gg/YsqKHeMCyW">discord</Link></button>
           </div>
         </section>
       </div>
