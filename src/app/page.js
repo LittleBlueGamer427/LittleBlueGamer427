@@ -27,7 +27,6 @@ export default function Home() {
             <button>TEST</button>
             <button>TEST</button>
           </div>
-          <div class="line stripesLoader"></div>
         </section>
       </div>
     </main>
