@@ -1,4 +1,4 @@
--im littlebluegamer
+-im littlebluegamer i sometimes help find bugs in other peoples repositories on here
 -intrested in gamedev gaming and extdev
 -learning other visual scripting languages, on the way to become king of visual scripting
 -male pronouns (DO NOT MISGENDER AT ALL)
