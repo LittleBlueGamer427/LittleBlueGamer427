@@ -19,7 +19,6 @@ export default function LearnMain() {
           <h1>community guidelines</h1>
           <p>follow these rules in multiplayer games</p>
           <p>anti-furs homophobes transphobes and any other similar idiots are not allowed</p>
-          <p>(if you hate furries or lgbtq GET OFF MY FRICKIN GAME NOW)</p>
           <p>p3d0philes and gr00mers also arent allowed</p>
           <p>no racism and no n*zis. it does NOT matter if its roleplay or not</p>
           <p>remember to respect pronouns btw</p>
