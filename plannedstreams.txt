@@ -1,8 +1,8 @@
 timezone is pst
-i stream at night
 
 planned streams
-  11/16/24 - CANCELLED STREAM
+  date - category
+  11/17/24 - just chatting
 
 stream(s) that will only be done if enough of you ask
   [placeholder] - a stream but the vtuber is replaced with a fursuit (i dont have a suit rn)
