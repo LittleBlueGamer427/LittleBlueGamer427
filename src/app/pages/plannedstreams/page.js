@@ -17,7 +17,6 @@ export default function LearnMain() {
         </div>
         <section>
           <h1>planned streams</h1>
-          <p>follow these rules in multiplayer games</p>
           <div>
             <button>none yet</button>
           </div>
