@@ -17,12 +17,13 @@ export default function Home() {
           <img src="avatarHead.png" width="70" height="70" />
           <ul>
             <li><Link href="/pages/learn/learnmain">LEARN</Link></li>
+            <li><Link href="/pages/plannedstreams">PLANNED STREAMS</Link></li>
             <li><a href="/mewo">404</a></li>
           </ul>
         </div>
         <section>
-          <h1>stupid gamedev</h1>
-          <p>literally a gamedev and an extension (not to be mistaken for browser ones i mentioned turbowarp extensions) developer</p>
+          <h1>hello</h1>
+          <p>i am stupid</p>
           <div>
             <button>This site is under construction, it's not fully finished yet.</button>
           </div>
